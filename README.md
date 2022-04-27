@@ -1,8 +1,8 @@
 # Inmate-Management-System
 
 
-This program will take a large dataset Taken from the texas department of criinal justice database and will make it more manageable for the user to look through the file.
-  User will be able to Insert, delete , display, and search the comma separated text file to display results that they want to see.
+This program will take a large dataset Taken from the Texas department of criminal justice database and will make it more manageable for the user to look through the file.
+  User will be able to Insert, delete , display, and search the comma separated text file to display results that they want to see. 
 
 ![Screenshot 2022-04-27 155900](https://user-images.githubusercontent.com/97756180/165630191-b47b02b2-cd98-467c-b6f6-cbca58225028.png)
 ![Screenshot 2022-04-27 160121](https://user-images.githubusercontent.com/97756180/165630561-5c5f9cb6-836c-4a43-acc8-1e997ae83d5e.png)
